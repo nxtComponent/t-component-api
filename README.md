@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/nxtComponent/t-component-api.svg?branch=master)](https://travis-ci.org/nxtComponent/t-component-api?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/nxtComponent/t-component-api/badge.svg?branch=master)](https://coveralls.io/github/nxtComponent/t-component-api?branch=master)
 # \<t-component-api\>
 
 
